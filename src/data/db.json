@@ -1,0 +1,56 @@
+{
+  "datenbank": [
+    {
+      "name": "Max",
+      "ort": "Dresden",
+      "id": "1"
+    },
+    {
+      "name": "King",
+      "ort": "Dresden",
+      "id": "2"
+    },
+    {
+      "name": "Max",
+      "ort": "Dresden",
+      "id": "5"
+    },
+    {
+      "name": "Max",
+      "ort": "Dresden",
+      "id": "trs0taB"
+    }
+  ],
+  "posts" : [
+    {
+      "username" : "@test",
+      "postcontent" : "Lorem Ipsum Test Post",
+      "timestamp" : "June 15, 2023",
+      "id" : "1"
+    },
+    {
+      "username" : "@test",
+      "postcontent" : "Lorem Ipsum Test Post",
+      "timestamp" : "June 15, 2023",
+      "id" : "2"
+    },
+    {
+      "username" : "@test",
+      "postcontent" : "Lorem Ipsum Test Post",
+      "timestamp" : "June 15, 2023",
+      "id" : "3"
+    },
+    {
+      "username" : "@test",
+      "postcontent" : "Lorem Ipsum Test Post",
+      "timestamp" : "June 15, 2023",
+      "id" : "4"
+    },
+    {
+      "username" : "@test",
+      "postcontent" : "Lorem Ipsum Test Post",
+      "timestamp" : "June 15, 2023",
+      "id" : "5"
+    }
+  ]
+}
