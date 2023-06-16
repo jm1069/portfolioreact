@@ -14,6 +14,7 @@ export default function PostFeed() {
         const fetchData = async () => {
             try {
                 await delay(3566);          // Test für Ladebalken sichtbarkeit
+                
                 const response = await axios.get('http://localhost:3000/posts');
                 setPosts(response.data);
                 setLoading(false);
